@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="Cotera.org">
+  <component name="PublishConfigData" serverName="Cotera.org" uploadOnCheckin="9f939fbe-cd40-4d22-a071-f34fe6243ef5">
     <serverData>
       <paths name="Cotera.org">
         <serverdata>
@@ -10,5 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="Cotera.org" />
   </component>
 </project>
